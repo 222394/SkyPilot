@@ -33,7 +33,7 @@
 
 ## 🎥 Showcase Video
 
-*YouTube trailer coming soon.*
+*https://www.youtube.com/watch?v=usaDZmqd54I.*
 
 ---
 
@@ -41,7 +41,7 @@
 
 Join the SkyPilot community for updates, support, and future releases.
 
-**Discord:** *(Paste your invite here)*
+**Discord:** *(https://discord.gg/u5eraBfP8x)*
 
 ---
 
