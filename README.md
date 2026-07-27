@@ -1,106 +1,67 @@
 # ✈️ SkyPilot
 
+<p align="center">
+
 ### Autonomous Elytra Navigation for Meteor Client
 
-SkyPilot is an autonomous Elytra navigation addon for Meteor Client.
+**Automatically take off, climb, cruise, navigate, boost, and land using your Elytra.**
 
-Designed for long-distance travel, SkyPilot takes control of your flight, allowing you to automatically launch, climb, cruise, navigate, and land with minimal player input.
-
----
-
-## Features
-
-- 🚀 Automatic Takeoff
-- 🪂 Automatic Elytra Deployment
-- 📈 Autonomous Climb
-- 🧭 Intelligent Heading Control
-- 🎆 Automatic Rocket Boosting
-- 📍 Live Distance Tracking
-- ⏱️ Estimated Time of Arrival (ETA)
-- ❤️ Elytra Health Monitor
-- 🛬 Automatic Approach & Landing
-- 📊 Modern Flight HUD
+</p>
 
 ---
 
-## Requirements
+## 🚀 Features
 
-- Minecraft 1.21.x
-- Meteor Client
-- Fabric Loader
-
----
-
-## Installation
-
-1. Download the latest SkyPilot release.
-2. Place the `.jar` file into your Minecraft `mods` folder.
-3. Launch Minecraft using Fabric.
-4. Enable **SkyPilot** from the Meteor Modules menu.
+- Automatic Takeoff
+- Automatic Elytra Deployment
+- Autonomous Climb
+- Intelligent Heading Control
+- Automatic Rocket Boosting
+- Live Distance Tracking
+- ETA Calculation
+- Elytra Health Monitor
+- Automatic Approach & Landing
+- Modern Flight HUD
 
 ---
 
-## HUD
+## 📸 Screenshots
 
-SkyPilot includes a live flight dashboard displaying:
-
-- Flight State
-- Speed
-- Boost Status
-- Altitude
-- Target Altitude
-- Vertical Speed
-- Distance Remaining
-- Heading Error
-- Rocket Cooldown
-- Elytra Health
-- ETA
+*Screenshots coming soon.*
 
 ---
 
-## Current Flight States
+## 🎥 Showcase Video
 
-- IDLE
-- TAKEOFF
-- DEPLOY
-- CLIMB
-- CRUISE
-- BOOST
-- APPROACH
-- LANDING
-- COMPLETE
+*YouTube trailer coming soon.*
 
 ---
 
-## Roadmap
+## 💬 Discord
 
-### Version 1.0
+Join the SkyPilot community for updates, support, and future releases.
 
-- Stable autonomous flight
-- Automatic navigation
-- Complete HUD
-- Public release
-
-### Version 2.0
-
-- Terrain avoidance
-- Collision detection
-- Emergency flight mode
-- Waypoint support
-- Smarter navigation
+**Discord:** *(Paste your invite here)*
 
 ---
 
-## Community
+## 📥 Installation
 
-Discord:
-(Add your Discord invite here)
+1. Install Meteor Client.
+2. Download the latest release from the **Releases** page.
+3. Place the SkyPilot JAR into your `mods` folder.
+4. Launch Minecraft.
+5. Enable **SkyPilot** from the Meteor Modules menu.
 
 ---
 
-## License
+## ❤️ Thank You
 
-This project is released under the CC0-1.0 License.
+Thank you for checking out SkyPilot!
+
+This project began as an idea and grew into a fully autonomous Elytra navigation system through lots of testing, debugging, and refinement.
+
+If you enjoy using SkyPilot, consider starring the repository and joining the Discord community.
 
 ---
 
