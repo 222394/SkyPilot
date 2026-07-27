@@ -1,10 +1,8 @@
 {
-  "required": true,
+  "required": false,
   "package": "com.example.addon.mixin",
   "compatibilityLevel": "JAVA_21",
-  "client": [
-    "ExampleMixin"
-  ],
+  "client": [],
   "injectors": {
     "defaultRequire": 1
   }
